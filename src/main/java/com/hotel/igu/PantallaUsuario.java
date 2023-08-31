@@ -128,7 +128,7 @@ public class PantallaUsuario extends javax.swing.JFrame {
 
         jPanel2.setBackground(new java.awt.Color(255, 255, 255));
 
-        imagenInicio.setIcon(new javax.swing.ImageIcon(getClass().getResource("/hotel-recepcion.jpg"))); // NOI18N
+        imagenInicio.setIcon(new javax.swing.ImageIcon(getClass().getResource("/recepcionistas-trajes-elegantes.jpg"))); // NOI18N
 
         javax.swing.GroupLayout jPanel2Layout = new javax.swing.GroupLayout(jPanel2);
         jPanel2.setLayout(jPanel2Layout);
@@ -142,8 +142,8 @@ public class PantallaUsuario extends javax.swing.JFrame {
         jPanel2Layout.setVerticalGroup(
             jPanel2Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(jPanel2Layout.createSequentialGroup()
-                .addComponent(imagenInicio)
-                .addGap(0, 12, Short.MAX_VALUE))
+                .addComponent(imagenInicio, javax.swing.GroupLayout.PREFERRED_SIZE, 533, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(0, 67, Short.MAX_VALUE))
         );
 
         javax.swing.GroupLayout contenedorLayout = new javax.swing.GroupLayout(contenedor);
