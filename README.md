@@ -24,12 +24,12 @@ Proyecto básico tipo desafío de de creación de un sistema de reserva para el 
 </ul>
 
 <h2>Diagrama de la base de datos</h2>
-<img src="https://github.com/pittuk/ChallengeBackEndJava-HotelAlura/assets/31288202/9b2581d7-a5be-4bb0-8d62-0e7b42b72137">
+<img src="https://github.com/pittuk/ChallengeBackEndJava-HotelAlura/assets/31288202/9b2581d7-a5be-4bb0-8d62-0e7b42b72137"/>
 
 <h2>Pantalla de Login</h2>
-Esta ventana se permitir al usuario ingresar su usuario y contraseña. Por detrás de la cortina se verifica si los datos ingresados son correctos o incorrectos y se notifica al usuario de este estatus, por ejemplo si los datos son incorrectos se muestra un mensaje al usuario diciendo "Usuario y Contraseña inválidos".
+Esta ventana se permitir al usuario ingresar su usuario y contraseña. Por detrás de la cortina se verifica si los datos ingresados son correctos o incorrectos y se notifica al usuario de este estatus, por ejemplo si los datos son incorrectos se muestra un mensaje al usuario diciendo: "Usuario y Contraseña inválidos".
 
-<img src="https://github.com/pittuk/ChallengeBackEndJava-HotelAlura/assets/31288202/33fd89dc-03b5-4a4b-a139-56f6f8649bca">
+<img src="https://github.com/pittuk/ChallengeBackEndJava-HotelAlura/assets/31288202/33fd89dc-03b5-4a4b-a139-56f6f8649bca"/>
 
 <h2>Pantalla de Reservas y Registro de Huésped</h2>
 <h3>Reservas</h3>
@@ -54,10 +54,15 @@ En esta sección se registran los personales de los huéspedes con los siguiente
 </ul>
 También se le notifica al usuário tanto para registro satisfactorio de los datos como si ocurrió algún error.
 
-<img src="https://github.com/pittuk/ChallengeBackEndJava-HotelAlura/assets/31288202/f35e6de1-7e72-4ca6-98b3-510abd059adf">
+<img src="https://github.com/pittuk/ChallengeBackEndJava-HotelAlura/assets/31288202/f35e6de1-7e72-4ca6-98b3-510abd059adf"/>
+
+<h2>Pantalla de Búsqueda</h2>
+Esta sección se permitir al usuario buscar las informaciones que están dentro de nuestra base de datos. Estos se presentan a través de dos tablas, al seleccionar cualquier registro el usuario podrá, editar o eliminar dicho registro.
+<img src="https://github.com/pittuk/ChallengeBackEndJava-HotelAlura/assets/31288202/59468aec-010d-4fbe-8c6b-243d1e440819"/>
+
+<h2>Edición y eliminación</h2>
+Se permite al usuario seleccionar y editar los campos de las tablas de reservas y huéspedes, así como también su eliminación haciendo las validaciones correspondientes en cada caso.
+
+<img src="https://github.com/pittuk/ChallengeBackEndJava-HotelAlura/assets/31288202/4820ef05-c6d2-488c-b51e-4c066140d166"/>
 
 
-![pantalla-edicion-y-eliminacion](https://github.com/pittuk/ChallengeBackEndJava-HotelAlura/assets/31288202/4820ef05-c6d2-488c-b51e-4c066140d166)
-![pantalla-de-reservas](https://github.com/pittuk/ChallengeBackEndJava-HotelAlura/assets/31288202/f35e6de1-7e72-4ca6-98b3-510abd059adf)
-
-![pantalla-de-busqueda](https://github.com/pittuk/ChallengeBackEndJava-HotelAlura/assets/31288202/59468aec-010d-4fbe-8c6b-243d1e440819)
